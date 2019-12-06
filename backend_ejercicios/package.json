@@ -1,0 +1,16 @@
+{
+  "name": "backend_ejercicios",
+  "version": "1.0.0",
+  "description": "ejercicios de la clase 1 de backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "AP",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
